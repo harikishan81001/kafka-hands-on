@@ -1,16 +1,12 @@
-package com.github.hari.pocs.kafka.demo1;
+package demo1;
 
 
-import org.apache.kafka.clients.consumer.ConsumerConfig;
-import org.apache.kafka.clients.consumer.KafkaConsumer;
 import org.apache.kafka.clients.producer.*;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.util.Arrays;
 import java.util.Properties;
-import java.util.logging.ConsoleHandler;
 
 public class ProducerDemoCallback {
     public static void main(String[] args) {
