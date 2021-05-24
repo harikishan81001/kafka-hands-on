@@ -11,6 +11,7 @@
     <modules>
         <module>kafka-basics</module>
         <module>kafka-twitter-producer</module>
+        <module>kafka-consumer-es</module>
     </modules>
 
     <properties>

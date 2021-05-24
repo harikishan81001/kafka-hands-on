@@ -20,6 +20,7 @@ import java.util.concurrent.TimeUnit;
 
 public class TwitterProducer {
     public TwitterProducer(){}
+
     String CONSUMER_KEY = "u8oub2DJryAbeWE1CIcV9VILx";
     String CONSUMER_SECRET = "1tXrr5earv7H7xFNfbV1M8VEUWCqoghNXrKaVbLX4gha98GaCe";
     String TOKEN = "57883266-xj6h5MuVIjPPJ07T3VXv2qME3tHfBtCfSyjGCEwKp";
