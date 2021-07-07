@@ -111,7 +111,7 @@ public class ElasticSearchConsumer {
             logger.info("Committing offset");
             kafkaConsumer.commitSync();
             logger.info("Offset committed successfully!");
-            
+
         }
     }
 }
